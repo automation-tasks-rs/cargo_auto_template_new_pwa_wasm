@@ -7,7 +7,7 @@
 // region: auto_md_to_doc_comments include README.md A //!
 //! # cargo_auto_template_new_pwa_wasm
 //!
-//! **pwa_description**  
+//! **Template for a minimal pwa wasm project for browser**  
 //! ***version: 0.0.5 date: 2024-05-01 author: [web_server_domain](https://web_server_domain) repository: [GitHub](https://github.com/automation-tasks-rs/cargo_auto_template_new_pwa_wasm)***
 //!
 //!  ![maintained](https://img.shields.io/badge/maintained-green)
