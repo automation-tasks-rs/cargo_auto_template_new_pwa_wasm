@@ -20,7 +20,7 @@ cargo auto build
 cargo auto release
 cargo auto doc
 cargo auto test
-cargo auto commit_and push
+cargo auto commit_and_push
 cargo auto publish_to_crates_io
 cargo auto github_new_release
 ```
@@ -62,3 +62,19 @@ It is smart to split a project so that the logic does not contain anything about
 ## GitHub
 
 This template contains GitHub actions to build the project on commit and publish the documentation on GutHub pages.  
+
+## Template release
+
+Cargo-auto will download the template release from:
+<https://github.com/automation-tasks-rs/cargo_auto_template_new_cli/releases/download/v1.0.0/template.tar.gz>
+
+To create this release use the commands:
+
+```bash
+git archive -o template.tar HEAD
+# delete directory docs
+tar -vf template.tar --delete docs
+gzip template.tar
+```
+
+Then manually create a GitHub release and upload the tar.
