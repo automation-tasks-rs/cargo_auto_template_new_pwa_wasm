@@ -1,0 +1,524 @@
+./docs/help.html
+Document: "2" is not a file!
+
+line 1 column 2087 - Warning: trimming empty <button>
+line 2 column 81 - Warning: trimming empty <span>
+./docs/src/rust_project_name/lib.rs.html
+Document: "2" is not a file!
+
+line 3 column 54 - Warning: trimming empty <span>
+./docs/src/rust_project_name/main_mod/lib_mod/web_sys_mod/html_source_code_mod.rs.html
+Document: "2" is not a file!
+
+line 3 column 54 - Warning: trimming empty <span>
+./docs/src/rust_project_name/main_mod/lib_mod/web_sys_mod.rs.html
+Document: "2" is not a file!
+
+line 3 column 54 - Warning: trimming empty <span>
+./docs/src/rust_project_name/main_mod/lib_mod/hello_mod.rs.html
+Document: "2" is not a file!
+
+line 3 column 54 - Warning: trimming empty <span>
+./docs/src/rust_project_name/main_mod/lib_mod.rs.html
+Document: "2" is not a file!
+
+line 3 column 54 - Warning: trimming empty <span>
+./docs/src/rust_project_name/main_mod.rs.html
+Document: "2" is not a file!
+
+line 3 column 54 - Warning: trimming empty <span>
+./docs/rust_project_name/all.html
+Document: "2" is not a file!
+
+line 1 column 2135 - Warning: trimming empty <button>
+line 2 column 81 - Warning: trimming empty <span>
+./docs/rust_project_name/main_mod/lib_mod/web_sys_mod/fn.add_listener_to_button.html
+Document: "2" is not a file!
+
+line 1 column 2362 - Warning: trimming empty <button>
+line 2 column 81 - Warning: trimming empty <span>
+./docs/rust_project_name/main_mod/lib_mod/web_sys_mod/fn.add_listener_for_onhashchange.html
+Document: "2" is not a file!
+
+line 1 column 2375 - Warning: trimming empty <button>
+line 2 column 81 - Warning: trimming empty <span>
+./docs/rust_project_name/main_mod/lib_mod/web_sys_mod/fn.get_html_element_by_id.html
+Document: "2" is not a file!
+
+line 1 column 2355 - Warning: trimming empty <button>
+line 2 column 81 - Warning: trimming empty <span>
+./docs/rust_project_name/main_mod/lib_mod/web_sys_mod/fn.window.html
+Document: "2" is not a file!
+
+line 1 column 2348 - Warning: trimming empty <button>
+line 2 column 81 - Warning: trimming empty <span>
+./docs/rust_project_name/main_mod/lib_mod/web_sys_mod/fn.open_url.html
+Document: "2" is not a file!
+
+line 1 column 2379 - Warning: trimming empty <button>
+line 2 column 81 - Warning: trimming empty <span>
+./docs/rust_project_name/main_mod/lib_mod/web_sys_mod/fn.get_input_element_value_string_by_id.html
+Document: "2" is not a file!
+
+line 1 column 2383 - Warning: trimming empty <button>
+line 2 column 81 - Warning: trimming empty <span>
+./docs/rust_project_name/main_mod/lib_mod/web_sys_mod/fn.set_html_element_inner_text.html
+Document: "2" is not a file!
+
+line 1 column 2352 - Warning: trimming empty <button>
+line 2 column 81 - Warning: trimming empty <span>
+./docs/rust_project_name/main_mod/lib_mod/web_sys_mod/fn.now_time_as_string.html
+Document: "2" is not a file!
+
+line 1 column 2365 - Warning: trimming empty <button>
+line 2 column 81 - Warning: trimming empty <span>
+./docs/rust_project_name/main_mod/lib_mod/web_sys_mod/index.html
+Document: "2" is not a file!
+
+line 1 column 2462 - Warning: trimming empty <button>
+line 2 column 81 - Warning: trimming empty <span>
+./docs/rust_project_name/main_mod/lib_mod/web_sys_mod/fn.get_element_by_id.html
+Document: "2" is not a file!
+
+line 1 column 2345 - Warning: trimming empty <button>
+line 2 column 81 - Warning: trimming empty <span>
+./docs/rust_project_name/main_mod/lib_mod/web_sys_mod/html_source_code_mod/struct.HtmlSourceCode.html
+Document: "2" is not a file!
+
+line 18 column 587 - Warning: missing </summary> before <section>
+line 18 column 1054 - Warning: discarding unexpected </summary>
+line 18 column 1131 - Warning: missing </summary> before <section>
+line 18 column 1537 - Warning: discarding unexpected </summary>
+line 21 column 60 - Warning: missing </summary> before <section>
+line 21 column 508 - Warning: discarding unexpected </summary>
+line 23 column 60 - Warning: missing </summary> before <section>
+line 23 column 618 - Warning: discarding unexpected </summary>
+line 25 column 60 - Warning: missing </summary> before <section>
+line 29 column 17 - Warning: discarding unexpected </summary>
+line 31 column 60 - Warning: missing </summary> before <section>
+line 35 column 17 - Warning: discarding unexpected </summary>
+line 37 column 60 - Warning: missing </summary> before <section>
+line 37 column 514 - Warning: discarding unexpected </summary>
+line 39 column 2900 - Warning: missing </summary> before <section>
+line 39 column 3258 - Warning: <div> isn't allowed in <h3> elements
+line 40 column 149 - Warning: discarding unexpected </div>
+line 40 column 170 - Warning: discarding unexpected </summary>
+line 40 column 247 - Warning: missing </summary> before <section>
+line 40 column 752 - Warning: discarding unexpected </summary>
+line 40 column 1008 - Warning: missing </summary> before <section>
+line 40 column 1413 - Warning: <div> isn't allowed in <h3> elements
+line 41 column 139 - Warning: discarding unexpected </div>
+line 41 column 160 - Warning: discarding unexpected </summary>
+line 41 column 237 - Warning: missing </summary> before <section>
+line 41 column 718 - Warning: discarding unexpected </summary>
+line 41 column 967 - Warning: missing </summary> before <section>
+line 41 column 1387 - Warning: <div> isn't allowed in <h3> elements
+line 42 column 139 - Warning: discarding unexpected </div>
+line 42 column 160 - Warning: discarding unexpected </summary>
+line 42 column 237 - Warning: missing </summary> before <section>
+line 42 column 745 - Warning: discarding unexpected </summary>
+line 42 column 999 - Warning: missing </summary> before <section>
+line 42 column 1416 - Warning: discarding unexpected </summary>
+line 42 column 1493 - Warning: missing </summary> before <section>
+line 42 column 1866 - Warning: discarding unexpected </summary>
+line 43 column 77 - Warning: missing </summary> before <section>
+line 43 column 486 - Warning: <div> isn't allowed in <h3> elements
+line 44 column 146 - Warning: discarding unexpected </div>
+line 44 column 167 - Warning: discarding unexpected </summary>
+line 44 column 244 - Warning: missing </summary> before <section>
+line 44 column 617 - Warning: discarding unexpected </summary>
+line 47 column 77 - Warning: missing </summary> before <section>
+line 47 column 501 - Warning: <div> isn't allowed in <h3> elements
+line 48 column 146 - Warning: discarding unexpected </div>
+line 48 column 167 - Warning: discarding unexpected </summary>
+line 48 column 230 - Warning: missing </summary> before <section>
+line 48 column 682 - Warning: discarding unexpected </summary>
+line 48 column 826 - Warning: missing </summary> before <section>
+line 48 column 1693 - Warning: discarding unexpected </summary>
+line 48 column 1825 - Warning: missing </summary> before <section>
+line 48 column 2249 - Warning: <div> isn't allowed in <h3> elements
+line 49 column 155 - Warning: discarding unexpected </div>
+line 49 column 176 - Warning: discarding unexpected </summary>
+line 49 column 239 - Warning: missing </summary> before <section>
+line 49 column 876 - Warning: discarding unexpected </summary>
+line 49 column 1020 - Warning: missing </summary> before <section>
+line 49 column 1883 - Warning: discarding unexpected </summary>
+line 1 column 3678 - Warning: trimming empty <button>
+line 2 column 81 - Warning: trimming empty <span>
+line 18 column 587 - Warning: trimming empty <summary>
+line 18 column 1131 - Warning: trimming empty <summary>
+line 21 column 60 - Warning: trimming empty <summary>
+line 23 column 60 - Warning: trimming empty <summary>
+line 25 column 60 - Warning: trimming empty <summary>
+line 31 column 60 - Warning: trimming empty <summary>
+line 37 column 60 - Warning: trimming empty <summary>
+line 39 column 2900 - Warning: trimming empty <summary>
+line 40 column 247 - Warning: trimming empty <summary>
+line 40 column 1008 - Warning: trimming empty <summary>
+line 41 column 237 - Warning: trimming empty <summary>
+line 41 column 967 - Warning: trimming empty <summary>
+line 42 column 237 - Warning: trimming empty <summary>
+line 42 column 999 - Warning: trimming empty <summary>
+line 42 column 1493 - Warning: trimming empty <summary>
+line 43 column 77 - Warning: trimming empty <summary>
+line 44 column 244 - Warning: trimming empty <summary>
+line 47 column 77 - Warning: trimming empty <summary>
+line 48 column 230 - Warning: trimming empty <summary>
+line 48 column 826 - Warning: trimming empty <summary>
+line 48 column 1825 - Warning: trimming empty <summary>
+line 49 column 239 - Warning: trimming empty <summary>
+line 49 column 1020 - Warning: trimming empty <summary>
+./docs/rust_project_name/main_mod/lib_mod/web_sys_mod/html_source_code_mod/index.html
+Document: "2" is not a file!
+
+line 1 column 2399 - Warning: trimming empty <button>
+line 2 column 81 - Warning: trimming empty <span>
+./docs/rust_project_name/main_mod/lib_mod/constant.RED.html
+Document: "2" is not a file!
+
+line 1 column 2335 - Warning: trimming empty <button>
+line 2 column 81 - Warning: trimming empty <span>
+./docs/rust_project_name/main_mod/lib_mod/constant.YELLOW.html
+Document: "2" is not a file!
+
+line 1 column 2341 - Warning: trimming empty <button>
+line 2 column 81 - Warning: trimming empty <span>
+./docs/rust_project_name/main_mod/lib_mod/hello_mod/fn.make_uppercase.html
+Document: "2" is not a file!
+
+line 1 column 2337 - Warning: trimming empty <button>
+line 2 column 81 - Warning: trimming empty <span>
+./docs/rust_project_name/main_mod/lib_mod/hello_mod/fn.format_upper_hello_phrase.html
+Document: "2" is not a file!
+
+line 1 column 2431 - Warning: trimming empty <button>
+line 2 column 81 - Warning: trimming empty <span>
+./docs/rust_project_name/main_mod/lib_mod/hello_mod/index.html
+Document: "2" is not a file!
+
+line 1 column 2534 - Warning: trimming empty <button>
+line 2 column 81 - Warning: trimming empty <span>
+./docs/rust_project_name/main_mod/lib_mod/hello_mod/fn.format_hello_phrase.html
+Document: "2" is not a file!
+
+line 1 column 2349 - Warning: trimming empty <button>
+line 2 column 81 - Warning: trimming empty <span>
+./docs/rust_project_name/main_mod/lib_mod/constant.GREEN.html
+Document: "2" is not a file!
+
+line 1 column 2339 - Warning: trimming empty <button>
+line 2 column 81 - Warning: trimming empty <span>
+./docs/rust_project_name/main_mod/lib_mod/enum.LibraryError.html
+Document: "2" is not a file!
+
+line 6 column 790 - Warning: missing </summary> before <section>
+line 6 column 1312 - Warning: discarding unexpected </summary>
+line 6 column 1389 - Warning: missing </summary> before <section>
+line 6 column 2037 - Warning: discarding unexpected </summary>
+line 6 column 2290 - Warning: missing </summary> before <section>
+line 6 column 2822 - Warning: discarding unexpected </summary>
+line 6 column 2899 - Warning: missing </summary> before <section>
+line 6 column 3563 - Warning: discarding unexpected </summary>
+line 6 column 3818 - Warning: missing </summary> before <section>
+line 6 column 4344 - Warning: discarding unexpected </summary>
+line 6 column 4421 - Warning: missing </summary> before <section>
+line 6 column 5179 - Warning: discarding unexpected </summary>
+line 6 column 5414 - Warning: missing </summary> before <section>
+line 6 column 6002 - Warning: discarding unexpected </summary>
+line 6 column 6012 - Warning: missing </span> before <div>
+line 6 column 6065 - Warning: inserting implicit <span>
+line 6 column 6172 - Warning: discarding unexpected </span>
+line 6 column 6364 - Warning: missing </summary> before <section>
+line 6 column 7105 - Warning: discarding unexpected </summary>
+line 6 column 7115 - Warning: missing </span> before <div>
+line 6 column 7168 - Warning: inserting implicit <span>
+line 6 column 7296 - Warning: discarding unexpected </span>
+line 6 column 7356 - Warning: missing </summary> before <section>
+line 6 column 7908 - Warning: discarding unexpected </summary>
+line 6 column 7918 - Warning: missing </span> before <div>
+line 6 column 7969 - Warning: inserting implicit <span>
+line 6 column 8099 - Warning: discarding unexpected </span>
+line 6 column 10937 - Warning: missing </summary> before <section>
+line 6 column 11295 - Warning: <div> isn't allowed in <h3> elements
+line 7 column 149 - Warning: discarding unexpected </div>
+line 7 column 170 - Warning: discarding unexpected </summary>
+line 7 column 247 - Warning: missing </summary> before <section>
+line 7 column 752 - Warning: discarding unexpected </summary>
+line 7 column 1008 - Warning: missing </summary> before <section>
+line 7 column 1413 - Warning: <div> isn't allowed in <h3> elements
+line 8 column 139 - Warning: discarding unexpected </div>
+line 8 column 160 - Warning: discarding unexpected </summary>
+line 8 column 237 - Warning: missing </summary> before <section>
+line 8 column 718 - Warning: discarding unexpected </summary>
+line 8 column 967 - Warning: missing </summary> before <section>
+line 8 column 1387 - Warning: <div> isn't allowed in <h3> elements
+line 9 column 139 - Warning: discarding unexpected </div>
+line 9 column 160 - Warning: discarding unexpected </summary>
+line 9 column 237 - Warning: missing </summary> before <section>
+line 9 column 745 - Warning: discarding unexpected </summary>
+line 9 column 999 - Warning: missing </summary> before <section>
+line 9 column 1416 - Warning: discarding unexpected </summary>
+line 9 column 1493 - Warning: missing </summary> before <section>
+line 9 column 1866 - Warning: discarding unexpected </summary>
+line 10 column 77 - Warning: missing </summary> before <section>
+line 10 column 486 - Warning: <div> isn't allowed in <h3> elements
+line 11 column 146 - Warning: discarding unexpected </div>
+line 11 column 167 - Warning: discarding unexpected </summary>
+line 11 column 244 - Warning: missing </summary> before <section>
+line 11 column 617 - Warning: discarding unexpected </summary>
+line 14 column 77 - Warning: missing </summary> before <section>
+line 14 column 473 - Warning: <div> isn't allowed in <h3> elements
+line 15 column 271 - Warning: discarding unexpected </div>
+line 15 column 292 - Warning: discarding unexpected </summary>
+line 15 column 369 - Warning: missing </summary> before <section>
+line 15 column 912 - Warning: discarding unexpected </summary>
+line 15 column 1179 - Warning: missing </summary> before <section>
+line 15 column 1603 - Warning: <div> isn't allowed in <h3> elements
+line 16 column 146 - Warning: discarding unexpected </div>
+line 16 column 167 - Warning: discarding unexpected </summary>
+line 16 column 230 - Warning: missing </summary> before <section>
+line 16 column 682 - Warning: discarding unexpected </summary>
+line 16 column 826 - Warning: missing </summary> before <section>
+line 16 column 1693 - Warning: discarding unexpected </summary>
+line 16 column 1825 - Warning: missing </summary> before <section>
+line 16 column 2249 - Warning: <div> isn't allowed in <h3> elements
+line 17 column 155 - Warning: discarding unexpected </div>
+line 17 column 176 - Warning: discarding unexpected </summary>
+line 17 column 239 - Warning: missing </summary> before <section>
+line 17 column 876 - Warning: discarding unexpected </summary>
+line 17 column 1020 - Warning: missing </summary> before <section>
+line 17 column 1883 - Warning: discarding unexpected </summary>
+line 1 column 2308 - Warning: trimming empty <button>
+line 2 column 81 - Warning: trimming empty <span>
+line 6 column 790 - Warning: trimming empty <summary>
+line 6 column 1389 - Warning: trimming empty <summary>
+line 6 column 2290 - Warning: trimming empty <summary>
+line 6 column 2899 - Warning: trimming empty <summary>
+line 6 column 3818 - Warning: trimming empty <summary>
+line 6 column 4421 - Warning: trimming empty <summary>
+line 6 column 5414 - Warning: trimming empty <summary>
+line 6 column 6012 - Warning: trimming empty <span>
+line 6 column 6364 - Warning: trimming empty <summary>
+line 6 column 7115 - Warning: trimming empty <span>
+line 6 column 7356 - Warning: trimming empty <summary>
+line 6 column 7918 - Warning: trimming empty <span>
+line 6 column 10937 - Warning: trimming empty <summary>
+line 7 column 247 - Warning: trimming empty <summary>
+line 7 column 1008 - Warning: trimming empty <summary>
+line 8 column 237 - Warning: trimming empty <summary>
+line 8 column 967 - Warning: trimming empty <summary>
+line 9 column 237 - Warning: trimming empty <summary>
+line 9 column 999 - Warning: trimming empty <summary>
+line 9 column 1493 - Warning: trimming empty <summary>
+line 10 column 77 - Warning: trimming empty <summary>
+line 11 column 244 - Warning: trimming empty <summary>
+line 14 column 77 - Warning: trimming empty <summary>
+line 15 column 369 - Warning: trimming empty <summary>
+line 15 column 1179 - Warning: trimming empty <summary>
+line 16 column 230 - Warning: trimming empty <summary>
+line 16 column 826 - Warning: trimming empty <summary>
+line 16 column 1825 - Warning: trimming empty <summary>
+line 17 column 239 - Warning: trimming empty <summary>
+line 17 column 1020 - Warning: trimming empty <summary>
+./docs/rust_project_name/main_mod/lib_mod/constant.RESET.html
+Document: "2" is not a file!
+
+line 1 column 2339 - Warning: trimming empty <button>
+line 2 column 81 - Warning: trimming empty <span>
+./docs/rust_project_name/main_mod/lib_mod/index.html
+Document: "2" is not a file!
+
+line 1 column 2443 - Warning: trimming empty <button>
+line 2 column 81 - Warning: trimming empty <span>
+./docs/rust_project_name/main_mod/fn.on_click_btn_run.html
+Document: "2" is not a file!
+
+line 1 column 2247 - Warning: trimming empty <button>
+line 2 column 81 - Warning: trimming empty <span>
+./docs/rust_project_name/main_mod/fn.main.html
+Document: "2" is not a file!
+
+line 1 column 2245 - Warning: trimming empty <button>
+line 2 column 81 - Warning: trimming empty <span>
+./docs/rust_project_name/main_mod/fn.print_help.html
+Document: "2" is not a file!
+
+line 1 column 2219 - Warning: trimming empty <button>
+line 2 column 81 - Warning: trimming empty <span>
+./docs/rust_project_name/main_mod/fn.page_with_inputs.html
+Document: "2" is not a file!
+
+line 1 column 2232 - Warning: trimming empty <button>
+line 2 column 81 - Warning: trimming empty <span>
+./docs/rust_project_name/main_mod/fn.header.html
+Document: "2" is not a file!
+
+line 1 column 2237 - Warning: trimming empty <button>
+line 2 column 81 - Warning: trimming empty <span>
+./docs/rust_project_name/main_mod/fn.on_hash_change.html
+Document: "2" is not a file!
+
+line 1 column 2245 - Warning: trimming empty <button>
+line 2 column 81 - Warning: trimming empty <span>
+./docs/rust_project_name/main_mod/fn.upper_greet_name.html
+Document: "2" is not a file!
+
+line 1 column 2252 - Warning: trimming empty <button>
+line 2 column 81 - Warning: trimming empty <span>
+./docs/rust_project_name/main_mod/fn.print_greet_name.html
+Document: "2" is not a file!
+
+line 1 column 2228 - Warning: trimming empty <button>
+line 2 column 81 - Warning: trimming empty <span>
+./docs/rust_project_name/main_mod/fn.get_args_from_hash_fragment.html
+Document: "2" is not a file!
+
+line 1 column 2251 - Warning: trimming empty <button>
+line 2 column 81 - Warning: trimming empty <span>
+./docs/rust_project_name/main_mod/fn.routing_by_arguments.html
+Document: "2" is not a file!
+
+line 1 column 2260 - Warning: trimming empty <button>
+line 2 column 81 - Warning: trimming empty <span>
+./docs/rust_project_name/main_mod/index.html
+Document: "2" is not a file!
+
+line 1 column 2382 - Warning: trimming empty <button>
+line 2 column 81 - Warning: trimming empty <span>
+./docs/rust_project_name/enum.LibraryError.html
+Document: "2" is not a file!
+
+line 7 column 790 - Warning: missing </summary> before <section>
+line 7 column 1323 - Warning: discarding unexpected </summary>
+line 7 column 1400 - Warning: missing </summary> before <section>
+line 7 column 2042 - Warning: discarding unexpected </summary>
+line 7 column 2295 - Warning: missing </summary> before <section>
+line 7 column 2838 - Warning: discarding unexpected </summary>
+line 7 column 2915 - Warning: missing </summary> before <section>
+line 7 column 3573 - Warning: discarding unexpected </summary>
+line 7 column 3828 - Warning: missing </summary> before <section>
+line 7 column 4365 - Warning: discarding unexpected </summary>
+line 7 column 4442 - Warning: missing </summary> before <section>
+line 7 column 5200 - Warning: discarding unexpected </summary>
+line 7 column 5435 - Warning: missing </summary> before <section>
+line 7 column 6023 - Warning: discarding unexpected </summary>
+line 7 column 6033 - Warning: missing </span> before <div>
+line 7 column 6086 - Warning: inserting implicit <span>
+line 7 column 6193 - Warning: discarding unexpected </span>
+line 7 column 6385 - Warning: missing </summary> before <section>
+line 7 column 7126 - Warning: discarding unexpected </summary>
+line 7 column 7136 - Warning: missing </span> before <div>
+line 7 column 7189 - Warning: inserting implicit <span>
+line 7 column 7317 - Warning: discarding unexpected </span>
+line 7 column 7377 - Warning: missing </summary> before <section>
+line 7 column 7929 - Warning: discarding unexpected </summary>
+line 7 column 7939 - Warning: missing </span> before <div>
+line 7 column 7990 - Warning: inserting implicit <span>
+line 7 column 8120 - Warning: discarding unexpected </span>
+line 7 column 11043 - Warning: missing </summary> before <section>
+line 7 column 11401 - Warning: <div> isn't allowed in <h3> elements
+line 8 column 149 - Warning: discarding unexpected </div>
+line 8 column 170 - Warning: discarding unexpected </summary>
+line 8 column 247 - Warning: missing </summary> before <section>
+line 8 column 752 - Warning: discarding unexpected </summary>
+line 8 column 1008 - Warning: missing </summary> before <section>
+line 8 column 1413 - Warning: <div> isn't allowed in <h3> elements
+line 9 column 139 - Warning: discarding unexpected </div>
+line 9 column 160 - Warning: discarding unexpected </summary>
+line 9 column 237 - Warning: missing </summary> before <section>
+line 9 column 718 - Warning: discarding unexpected </summary>
+line 9 column 967 - Warning: missing </summary> before <section>
+line 9 column 1387 - Warning: <div> isn't allowed in <h3> elements
+line 10 column 139 - Warning: discarding unexpected </div>
+line 10 column 160 - Warning: discarding unexpected </summary>
+line 10 column 237 - Warning: missing </summary> before <section>
+line 10 column 745 - Warning: discarding unexpected </summary>
+line 10 column 999 - Warning: missing </summary> before <section>
+line 10 column 1416 - Warning: discarding unexpected </summary>
+line 10 column 1493 - Warning: missing </summary> before <section>
+line 10 column 1866 - Warning: discarding unexpected </summary>
+line 11 column 77 - Warning: missing </summary> before <section>
+line 11 column 486 - Warning: <div> isn't allowed in <h3> elements
+line 12 column 146 - Warning: discarding unexpected </div>
+line 12 column 167 - Warning: discarding unexpected </summary>
+line 12 column 244 - Warning: missing </summary> before <section>
+line 12 column 617 - Warning: discarding unexpected </summary>
+line 15 column 77 - Warning: missing </summary> before <section>
+line 15 column 473 - Warning: <div> isn't allowed in <h3> elements
+line 16 column 271 - Warning: discarding unexpected </div>
+line 16 column 292 - Warning: discarding unexpected </summary>
+line 16 column 369 - Warning: missing </summary> before <section>
+line 16 column 912 - Warning: discarding unexpected </summary>
+line 16 column 1179 - Warning: missing </summary> before <section>
+line 16 column 1603 - Warning: <div> isn't allowed in <h3> elements
+line 17 column 146 - Warning: discarding unexpected </div>
+line 17 column 167 - Warning: discarding unexpected </summary>
+line 17 column 230 - Warning: missing </summary> before <section>
+line 17 column 682 - Warning: discarding unexpected </summary>
+line 17 column 826 - Warning: missing </summary> before <section>
+line 17 column 1693 - Warning: discarding unexpected </summary>
+line 17 column 1825 - Warning: missing </summary> before <section>
+line 17 column 2249 - Warning: <div> isn't allowed in <h3> elements
+line 18 column 155 - Warning: discarding unexpected </div>
+line 18 column 176 - Warning: discarding unexpected </summary>
+line 18 column 239 - Warning: missing </summary> before <section>
+line 18 column 876 - Warning: discarding unexpected </summary>
+line 18 column 1020 - Warning: missing </summary> before <section>
+line 18 column 1883 - Warning: discarding unexpected </summary>
+line 1 column 2248 - Warning: trimming empty <button>
+line 2 column 81 - Warning: trimming empty <span>
+line 7 column 790 - Warning: trimming empty <summary>
+line 7 column 1400 - Warning: trimming empty <summary>
+line 7 column 2295 - Warning: trimming empty <summary>
+line 7 column 2915 - Warning: trimming empty <summary>
+line 7 column 3828 - Warning: trimming empty <summary>
+line 7 column 4442 - Warning: trimming empty <summary>
+line 7 column 5435 - Warning: trimming empty <summary>
+line 7 column 6033 - Warning: trimming empty <span>
+line 7 column 6385 - Warning: trimming empty <summary>
+line 7 column 7136 - Warning: trimming empty <span>
+line 7 column 7377 - Warning: trimming empty <summary>
+line 7 column 7939 - Warning: trimming empty <span>
+line 7 column 11043 - Warning: trimming empty <summary>
+line 8 column 247 - Warning: trimming empty <summary>
+line 8 column 1008 - Warning: trimming empty <summary>
+line 9 column 237 - Warning: trimming empty <summary>
+line 9 column 967 - Warning: trimming empty <summary>
+line 10 column 237 - Warning: trimming empty <summary>
+line 10 column 999 - Warning: trimming empty <summary>
+line 10 column 1493 - Warning: trimming empty <summary>
+line 11 column 77 - Warning: trimming empty <summary>
+line 12 column 244 - Warning: trimming empty <summary>
+line 15 column 77 - Warning: trimming empty <summary>
+line 16 column 369 - Warning: trimming empty <summary>
+line 16 column 1179 - Warning: trimming empty <summary>
+line 17 column 230 - Warning: trimming empty <summary>
+line 17 column 826 - Warning: trimming empty <summary>
+line 17 column 1825 - Warning: trimming empty <summary>
+line 18 column 239 - Warning: trimming empty <summary>
+line 18 column 1020 - Warning: trimming empty <summary>
+./docs/rust_project_name/index.html
+Document: "2" is not a file!
+
+line 11 column 4 - Warning: <a> attribute "href" lacks value
+line 12 column 1 - Warning: <a> attribute "href" lacks value
+line 13 column 1 - Warning: <a> attribute "href" lacks value
+line 14 column 1 - Warning: <a> attribute "href" lacks value
+line 15 column 1 - Warning: <a> attribute "href" lacks value
+line 1 column 2158 - Warning: trimming empty <button>
+line 3 column 81 - Warning: trimming empty <span>
+./docs/rust_project_name/fn.wasm_bindgen_start.html
+Document: "2" is not a file!
+
+line 1 column 2223 - Warning: trimming empty <button>
+line 2 column 81 - Warning: trimming empty <span>
+./docs/settings.html
+Document: "2" is not a file!
+
+line 1 column 2085 - Warning: trimming empty <button>
+line 2 column 81 - Warning: trimming empty <span>
+./docs/index.html
+Document: "2" is not a file!
+
+line 1 column 1 - Warning: missing <!DOCTYPE> declaration
+line 1 column 1 - Warning: inserting missing 'title' element
