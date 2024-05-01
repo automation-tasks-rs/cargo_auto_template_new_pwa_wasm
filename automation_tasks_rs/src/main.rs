@@ -1,4 +1,4 @@
-// automation_tasks_rs for rust_project_name
+// automation_tasks_rs for cargo_auto_template_new_pwa_wasm
 
 // region: library and modules with basic automation tasks
 

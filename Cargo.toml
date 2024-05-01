@@ -1,11 +1,11 @@
 [package]
-name = "rust_project_name"
-version = "0.0.4"
+name = "cargo_auto_template_new_pwa_wasm"
+version = "0.0.5"
 authors = ["web_server_domain"]
 homepage = "https://web_server_domain"
 edition = "2021"
 description = "pwa_description"
-repository = "https://github.com/automation-tasks-rs/rust_project_name"
+repository = "https://github.com/automation-tasks-rs/cargo_auto_template_new_pwa_wasm"
 readme = "README.md"
 license = "MIT"
 # Keyword must be only one word: lowercase letters, hyphens(-) or numbers, less then 35 characters, at most 5 keywords per crate

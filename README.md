@@ -1,11 +1,11 @@
 [//]: # (auto_md_to_doc_comments segment start A)
 
-# rust_project_name
+# cargo_auto_template_new_pwa_wasm
 
 [//]: # (auto_cargo_toml_to_md start)
 
 **pwa_description**  
-***version: 0.0.4 date: 2024-05-01 author: [web_server_domain](https://web_server_domain) repository: [GitHub](https://github.com/automation-tasks-rs/rust_project_name)***
+***version: 0.0.5 date: 2024-05-01 author: [web_server_domain](https://web_server_domain) repository: [GitHub](https://github.com/automation-tasks-rs/cargo_auto_template_new_pwa_wasm)***
 
  ![maintained](https://img.shields.io/badge/maintained-green)
  ![work-in-progress](https://img.shields.io/badge/work_in_progress-yellow)
@@ -14,14 +14,14 @@
 
 [//]: # (auto_cargo_toml_to_md end)
 
- [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/automation-tasks-rs/rust_project_name/blob/master/LICENSE)
+ [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/automation-tasks-rs/cargo_auto_template_new_pwa_wasm/blob/master/LICENSE)
 
 [//]: # (auto_lines_of_code start)
-[![Lines in Rust code](https://img.shields.io/badge/Lines_in_Rust-349-green.svg)]()
-[![Lines in Doc comments](https://img.shields.io/badge/Lines_in_Doc_comments-131-blue.svg)]()
-[![Lines in Comments](https://img.shields.io/badge/Lines_in_comments-70-purple.svg)]()
-[![Lines in examples](https://img.shields.io/badge/Lines_in_examples-0-yellow.svg)]()
-[![Lines in tests](https://img.shields.io/badge/Lines_in_tests-16-orange.svg)]()
+[![Lines in Rust code](https://img.shields.io/badge/Lines_in_Rust-349-green.svg)](https://github.com/automation-tasks-rs/rust_project_name/)
+[![Lines in Doc comments](https://img.shields.io/badge/Lines_in_Doc_comments-131-blue.svg)](https://github.com/automation-tasks-rs/rust_project_name/)
+[![Lines in Comments](https://img.shields.io/badge/Lines_in_comments-70-purple.svg)](https://github.com/automation-tasks-rs/rust_project_name/)
+[![Lines in examples](https://img.shields.io/badge/Lines_in_examples-0-yellow.svg)](https://github.com/automation-tasks-rs/rust_project_name/)
+[![Lines in tests](https://img.shields.io/badge/Lines_in_tests-16-orange.svg)](https://github.com/automation-tasks-rs/rust_project_name/)
 
 [//]: # (auto_lines_of_code end)
 

@@ -41,8 +41,8 @@ self.addEventListener('install', event => {
                     'icons/icon-196.png',
                     'icons/icon-512.png',
                     'icons/icon-maskable.png',
-                    'pkg/rust_project_name_bg.wasm',
-                    'pkg/rust_project_name.js'
+                    'pkg/cargo_auto_template_new_pwa_wasm_bg.wasm',
+                    'pkg/cargo_auto_template_new_pwa_wasm.js'
                 ]
             );
         })
