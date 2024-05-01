@@ -18,7 +18,7 @@ self.addEventListener('install', event => {
         caches.open(CACHE_NAME).then(function (cache) {
             return cache.addAll(
                 [
-                    '/pwa_short_name/',
+                    '/cargo_auto_template_new_pwa_wasm/',
                     'index.html',
                     'favicon.ico',
                     'manifest.json',

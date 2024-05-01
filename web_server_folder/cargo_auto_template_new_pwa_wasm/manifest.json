@@ -1,6 +1,6 @@
 {
-"short_name": "pwa_short_name",
-"name": "pwa_name",
+"short_name": "cargo_auto_template_new_pwa_wasm",
+"name": "cargo_auto_template_new_pwa_wasm",
 "icons": [
     {
         "src": "icons/icon-072.png",
@@ -51,7 +51,7 @@
         "purpose": "any maskable"
     }
 ],
-"start_url": "/pwa_short_name/index.html",
+"start_url": "/cargo_auto_template_new_pwa_wasm/index.html",
 "background_color": "#000000",
 "display": "standalone",
 "orientation": "portrait",

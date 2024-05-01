@@ -80,7 +80,7 @@ pub fn wasm_bindgen_start() -> Result<(), JsValue> {
     // Initialize debugging for when/if something goes wrong.
     console_error_panic_hook::set_once();
     // write the app version just for debug purposes
-    dbg!("pwa_short_name v{}", env!("CARGO_PKG_VERSION"));
+    dbg!("cargo_auto_template_new_pwa_wasm v{}", env!("CARGO_PKG_VERSION"));
 
     main_mod::main();
     // return

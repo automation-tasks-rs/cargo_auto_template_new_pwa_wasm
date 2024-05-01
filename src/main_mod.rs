@@ -32,7 +32,7 @@ fn get_args_from_hash_fragment() -> Vec<String> {
     // region: In browser we can use 'local routing' on url path with # fragment
     // but sometimes it does not reload the page, because the browser thinks # is an anchor on the same page
     // So we need to add a listener also to this other event.
-    // http://localhost:4000/pwa_short_name/#arg_1/arg_2
+    // http://localhost:4000/cargo_auto_template_new_pwa_wasm/#arg_1/arg_2
     let location = wsm::window().location();
     let mut location_hash_fragment = unwrap!(location.hash());
     // the hash is not decoded automatically !
@@ -45,7 +45,7 @@ fn get_args_from_hash_fragment() -> Vec<String> {
         // replace # with delimiter /
         location_hash_fragment.replace_range(..1, "/");
     }
-    let location_hash_fragment = format!("pwa_short_name{}", location_hash_fragment);
+    let location_hash_fragment = format!("cargo_auto_template_new_pwa_wasm{}", location_hash_fragment);
     dbg!(&location_hash_fragment);
     let args = location_hash_fragment.split("/");
     let args: Vec<String> = args.map(|x| x.to_string()).collect();
@@ -94,7 +94,7 @@ fn routing_by_arguments(args: Vec<String>) {
                 None => wsm::set_html_element_inner_text("div_for_errors", "Error: Missing second argument for upper."),
             }
         }
-        _ => wsm::set_html_element_inner_text("div_for_errors", "Error: Unrecognized arguments. Try \n http://localhost:4000/pwa_short_name/#help"),
+        _ => wsm::set_html_element_inner_text("div_for_errors", "Error: Unrecognized arguments. Try \n http://localhost:4000/cargo_auto_template_new_pwa_wasm/#help"),
     }
 }
 
@@ -110,9 +110,9 @@ fn header() {
     let html_source_code = wsm::HtmlSourceCode::new(
         r#"
 <div class="div_header">
-    <a href="/pwa_short_name/#page_with_inputs"><span class="fa-solid fa-home"></span>Home</a>
+    <a href="/cargo_auto_template_new_pwa_wasm/#page_with_inputs"><span class="fa-solid fa-home"></span>Home</a>
     &nbsp;
-    <a href="/pwa_short_name/#help"><span class="fa-solid fa-question-circle"></span>Help</a>
+    <a href="/cargo_auto_template_new_pwa_wasm/#help"><span class="fa-solid fa-question-circle"></span>Help</a>
     &nbsp;
 </div>
 <div>&nbsp;</div>
@@ -126,18 +126,18 @@ fn header() {
 fn print_help() {
     wsm::set_html_element_inner_text(
         "div_body",
-        r#"Welcome to pwa_short_name !
+        r#"Welcome to cargo_auto_template_new_pwa_wasm !
 
 This is a simple yet complete template for a PWA WASM program written in Rust.
 The file structure is on purpose similar to a Rust CLI project and accepts similar arguments.
 
-http://localhost:4000/pwa_short_name/
-http://localhost:4000/pwa_short_name/#help
-http://localhost:4000/pwa_short_name/#print/world
-http://localhost:4000/pwa_short_name/#upper/world
+http://localhost:4000/cargo_auto_template_new_pwa_wasm/
+http://localhost:4000/cargo_auto_template_new_pwa_wasm/#help
+http://localhost:4000/cargo_auto_template_new_pwa_wasm/#print/world
+http://localhost:4000/cargo_auto_template_new_pwa_wasm/#upper/world
 
 This command should return an error:
-http://localhost:4000/pwa_short_name/#upper/WORLD
+http://localhost:4000/cargo_auto_template_new_pwa_wasm/#upper/WORLD
 
 © 2024 bestia.dev  MIT License github.com/automation--tasks--rs/cargo-auto
 "#,
@@ -149,7 +149,7 @@ fn page_with_inputs() {
     // rust has `Raw string literals` that are great!
     // just add r# before the starting double quotes and # after the ending double quotes.
     let mut html_source_code = wsm::HtmlSourceCode::new(
-        r#"<h1>pwa_short_name</h1>
+        r#"<h1>cargo_auto_template_new_pwa_wasm</h1>
 <p>Write a command in the Argument 1: print or upper</p>
 <div class="input-wrap">
     <label for="arg_1">Argument 1:</label>  
@@ -188,7 +188,7 @@ fn on_click_btn_run() {
     let arg_2 = wsm::get_input_element_value_string_by_id("arg_2");
     if !arg_1.is_empty() && !arg_2.is_empty() {
         // pass arguments as URL in a new tab
-        let url = format!("/pwa_short_name/#{arg_1}/{arg_2}");
+        let url = format!("/cargo_auto_template_new_pwa_wasm/#{arg_1}/{arg_2}");
         wsm::open_url(&url);
     } else {
         // write on the same web page
