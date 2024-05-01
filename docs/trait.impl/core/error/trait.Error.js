@@ -1,3 +1,4 @@
 (function() {var implementors = {
+"cargo_auto_template_new_pwa_wasm":[["impl <a class=\"trait\" href=\"https://doc.rust-lang.org/1.77.2/core/error/trait.Error.html\" title=\"trait core::error::Error\">Error</a> for <a class=\"enum\" href=\"cargo_auto_template_new_pwa_wasm/main_mod/lib_mod/enum.LibraryError.html\" title=\"enum cargo_auto_template_new_pwa_wasm::main_mod::lib_mod::LibraryError\">LibraryError</a>"]],
 "rust_project_name":[["impl <a class=\"trait\" href=\"https://doc.rust-lang.org/1.77.2/core/error/trait.Error.html\" title=\"trait core::error::Error\">Error</a> for <a class=\"enum\" href=\"rust_project_name/main_mod/lib_mod/enum.LibraryError.html\" title=\"enum rust_project_name::main_mod::lib_mod::LibraryError\">LibraryError</a>"]]
 };if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()
