@@ -14,8 +14,6 @@
 /// We need to encode all user data before putting it into the HTML source code.  
 /// There are 2 types of encodings: one for attributes values and another for text nodes.  
 /// We will create a new type that makes it safer and easier for the programmer to replace data in the HTML source code.  
-///
-
 pub struct HtmlSourceCode {
     html: String,
 }
