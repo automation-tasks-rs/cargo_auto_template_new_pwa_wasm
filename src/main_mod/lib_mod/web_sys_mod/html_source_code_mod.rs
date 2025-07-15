@@ -23,7 +23,9 @@ impl HtmlSourceCode {
     /// The html source code coming from the programmer is always ok, he wants it to work properly.  
     /// The data that will be replaced, have a recognizable, unique and delimited value.  
     pub fn new(html_code: &'static str) -> Self {
-        HtmlSourceCode { html: html_code.to_string() }
+        HtmlSourceCode {
+            html: html_code.to_string(),
+        }
     }
 
     /// get the well formed html  

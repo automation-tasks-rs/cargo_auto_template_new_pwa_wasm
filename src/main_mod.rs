@@ -45,7 +45,7 @@ fn get_args_from_hash_fragment() -> Vec<String> {
         // replace # with delimiter /
         location_hash_fragment.replace_range(..1, "/");
     }
-    let location_hash_fragment = format!("cargo_auto_template_new_pwa_wasm{}", location_hash_fragment);
+    let location_hash_fragment = format!("cargo_auto_template_new_pwa_wasm{location_hash_fragment}");
     dbg!(&location_hash_fragment);
     let args = location_hash_fragment.split("/");
     let args: Vec<String> = args.map(|x| x.to_string()).collect();
@@ -94,7 +94,10 @@ fn routing_by_arguments(args: Vec<String>) {
                 None => wsm::set_html_element_inner_text("div_for_errors", "Error: Missing second argument for upper."),
             }
         }
-        _ => wsm::set_html_element_inner_text("div_for_errors", "Error: Unrecognized arguments. Try \n http://localhost:4000/cargo_auto_template_new_pwa_wasm/#help"),
+        _ => wsm::set_html_element_inner_text(
+            "div_for_errors",
+            "Error: Unrecognized arguments. Try \n http://localhost:4000/cargo_auto_template_new_pwa_wasm/#help",
+        ),
     }
 }
 

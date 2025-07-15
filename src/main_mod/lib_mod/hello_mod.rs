@@ -8,7 +8,7 @@
 pub fn format_hello_phrase(greet_name: &str) -> String {
     log::info!("start format_hello_phrase()");
     // return
-    format!("Hello {}!", greet_name)
+    format!("Hello {greet_name}!")
 }
 
 /// format the hello phrase with uppercase name
@@ -22,7 +22,7 @@ pub fn format_upper_hello_phrase(greet_name: &str) -> Result<String, crate::Libr
     }
 
     // return
-    Ok(format!("Hello {}!", &upper_greet_name))
+    Ok(format!("Hello {upper_greet_name}!"))
 }
 
 /// return uppercase
