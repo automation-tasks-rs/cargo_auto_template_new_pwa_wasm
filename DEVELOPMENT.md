@@ -66,7 +66,7 @@ This template contains GitHub actions to build the project on commit and publish
 ## Template release
 
 Cargo-auto will download the template release from:
-<https://github.com/automation-tasks-rs/cargo_auto_template_new_cli/releases/download/v1.0.0/template.tar.gz>
+<https://github.com/automation--tasks--rs/cargo_auto_template_new_cli/releases/download/v1.0.0/template.tar.gz>
 
 To create this release use the commands:
 
