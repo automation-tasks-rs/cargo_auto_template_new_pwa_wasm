@@ -1,7 +1,7 @@
 # automation_tasks_rs
 
 **Automation tasks coded in Rust language for the workflow of Rust projects**  
-***version: 1.0.0 date: 2024-05-04 author: [Bestia.dev](https://bestia.dev) repository: [GitHub](https://github.com/automation-tasks-rs/cargo_auto_template_new_auto_for_cli)***
+***version: 1.0.0 date: 2024-05-04 author: [Bestia.dev](https://bestia.dev) repository: [GitHub](https://github.com/automation--tasks--rs/cargo_auto_template_new_auto_for_cli)***
 
  ![maintained](https://img.shields.io/badge/maintained-green)
  ![ready-for-use](https://img.shields.io/badge/ready_for_use-green)
@@ -10,8 +10,8 @@
  ![workflow](https://img.shields.io/badge/workflow-orange)
  ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
- ![logo](https://raw.githubusercontent.com/automation-tasks-rs/cargo-auto/main/images/logo/logo_cargo_auto.svg)  
-This is part of the [automation_tasks_rs](https://github.com/automation-tasks-rs) project
+ ![logo](https://raw.githubusercontent.com/automation--tasks--rs/cargo-auto/main/images/logo/logo_cargo_auto.svg)  
+This is part of the [automation_tasks_rs](https://github.com/automation--tasks--rs) project
 
 ## The sub-project automation_tasks_rs
 
