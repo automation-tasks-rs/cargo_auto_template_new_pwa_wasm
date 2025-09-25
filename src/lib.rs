@@ -8,7 +8,7 @@
 //! # cargo_auto_template_new_pwa_wasm
 //!
 //! **Template for a minimal pwa wasm project for browser**  
-//! ***version: 0.0.11 date: 2025-07-15 author: [web_server_domain](https://web_server_domain) repository: [GitHub](https://github.com/automation-tasks-rs/cargo_auto_template_new_pwa_wasm)***
+//! ***version: 0.0.12 date: 2025-09-25 author: [web_server_domain](https://web_server_domain) repository: [GitHub](https://github.com/automation-tasks-rs/cargo_auto_template_new_pwa_wasm)***
 //!
 //!  ![maintained](https://img.shields.io/badge/maintained-green)
 //!  ![work-in-progress](https://img.shields.io/badge/work_in_progress-yellow)
@@ -21,7 +21,7 @@
 //!  [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/automation-tasks-rs/cargo_auto_template_new_pwa_wasm/blob/master/LICENSE)
 //!
 //! [![Lines in Rust code](https://img.shields.io/badge/Lines_in_Rust-353-green.svg)](https://github.com/automation-tasks-rs/cargo_auto_template_new_pwa_wasm/)
-//! [![Lines in Doc comments](https://img.shields.io/badge/Lines_in_Doc_comments-130-blue.svg)](https://github.com/automation-tasks-rs/cargo_auto_template_new_pwa_wasm/)
+//! [![Lines in Doc comments](https://img.shields.io/badge/Lines_in_Doc_comments-133-blue.svg)](https://github.com/automation-tasks-rs/cargo_auto_template_new_pwa_wasm/)
 //! [![Lines in Comments](https://img.shields.io/badge/Lines_in_comments-70-purple.svg)](https://github.com/automation-tasks-rs/cargo_auto_template_new_pwa_wasm/)
 //! [![Lines in examples](https://img.shields.io/badge/Lines_in_examples-0-yellow.svg)](https://github.com/automation-tasks-rs/cargo_auto_template_new_pwa_wasm/)
 //! [![Lines in tests](https://img.shields.io/badge/Lines_in_tests-16-orange.svg)](https://github.com/automation-tasks-rs/cargo_auto_template_new_pwa_wasm/)

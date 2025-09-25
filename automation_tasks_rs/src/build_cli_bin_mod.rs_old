@@ -14,8 +14,9 @@ use cargo_auto_lib::ShellCommandLimitedDoubleQuotesSanitizerTrait;
 #[allow(unused_imports)]
 use cl::{BLUE, GREEN, RED, RESET, YELLOW};
 
-/// cargo build
+
 #[allow(dead_code)]
+/// cargo build
 pub fn task_build() -> cl::CargoToml {
     let cargo_toml = cl::CargoToml::read();
     cl::auto_version_increment_semver_or_date();

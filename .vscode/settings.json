@@ -33,6 +33,7 @@
         "cdylib",
         "chrono",
         "commitish",
+        "crossplatform",
         "CRUSTDE",
         "Decryptor",
         "Encryptor",
