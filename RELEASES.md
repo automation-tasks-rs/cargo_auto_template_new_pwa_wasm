@@ -10,6 +10,8 @@ The TODO section is part of the [README.md](https://github.com/automation--tasks
 
 ## Unreleased
 
+## Version 0.0.14 (2025-10-03)
+
 ## Version 0.0.1
 
 - Rust project created with `cargo auto new_pwa_wasm`
