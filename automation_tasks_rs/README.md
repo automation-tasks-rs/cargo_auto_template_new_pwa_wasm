@@ -25,7 +25,6 @@ code automation--tasks--rs
 
 Don't put any secrets like passwords, passphrases, or tokens here, because this helper project is pushed to the remote repository together with the main Rust project.  
 
-
 ## cargo-auto
 
 This helper project is used in combination with the program `cargo-auto`. Install it with:  
@@ -75,6 +74,15 @@ The prepared automation--tasks--rs can create a new git repository and a remote 
 ## crates.io
 
 To publish to crates.io we need the secret access token. The prepared tasks will store it in ~/.ssh protected by your private key.
+
+## Error handling thiserror and anyhow
+
+Rule number one is never to use `.unwrap()` in your real Rust code. It is a sign, you are not Error handling properly.
+Maybe `unwrap()` can be fine for some fast learning examples, but for any real-life Rust code, you must use some `Error handling`. There are many different ways to do that in Rust. I choose the pair of libraries `thiserror` and `anyhow`. The first is made for libraries, the second is made for bin-executables.  
+The library needs an Enum with all the possible errors that this library can return. With `#[derive(Error)]` this enum gets everything needed to be a true Rust error struct. Every error can have a formatting string and a struct of data.  
+The bin-executable does not want to be involved in every possible error separately. It needs an umbrella for all possible errors with `anyhow::Result`.  
+Inside the code, mostly propagate the errors with the `?` Operator after the `Result` value instead of unwrap() or the match expression.
+In the tests we don't want to work with Error handling. There, instead of `.unwrap()`, use the similar function `.expect(&str)` that has an additional description string. I use expect() when I am 100% sure the panic cannot happen because I checked some conditions before it.  
 
 ## Open-source and free as a beer
 
