@@ -4,7 +4,7 @@
 //! Trying to isolate/hide all javascript code and conversion in this module.  
 
 // region: use
-// the macro unwrap! shows the TRUE location where the error has ocurred.
+// the macro unwrap! shows the TRUE location where the error has occurred.
 use unwrap::unwrap;
 use wasm_bindgen::prelude::*;
 use wasm_bindgen::JsCast;
@@ -79,12 +79,12 @@ pub fn set_html_element_inner_text(element_id: &str, inner_text: &str) {
 /// open URL in same tab (PWA don't have tabs, only one windows)  
 pub fn open_url(url: &str) {
     dbg!(url);
-    window().location().assign(url).unwrap();
+    unwrap!(window().location().assign(url));
     // Strange behavior: if url has hash, then it does not load ?!?
     match window().location().hash() {
         Ok(hash) => {
             dbg!(&hash);
-            window().location().set_hash(&hash).unwrap();
+            unwrap!(window().location().set_hash(&hash));
         }
         Err(_err) => {}
     }
